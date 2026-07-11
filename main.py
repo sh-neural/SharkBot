@@ -1,0 +1,3 @@
+from sharkexchange import get_futures_wallet_details
+
+get_futures_wallet_details()
